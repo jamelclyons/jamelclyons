@@ -1,9 +1,10 @@
-# Designer Software Development Engineer
-
+# 🧑🏽‍💻 Designer Software Development Engineer
+ 
 ## 💻 Languages
 - **HTML** <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="20" height="20"/>
 - **CSS** <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="20" height="20"/>
 - **JavaScript** <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" height="20"/>
+- **TypeScript** <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="20" height="20"/>
 - **PHP** <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="20" height="20"/>
 - **SQL** <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="20" height="20"/>
 - **Java** <img src="https://skillicons.dev/icons?i=java" alt="Java" width="20" height="20"/>
@@ -37,13 +38,13 @@
 - **Adobe XD** <img src="https://skillicons.dev/icons?i=xd" alt="XD" width="20" height="20"/>
 - **Figma** <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="20" height="20"/>
 
-## 🛠️ Development Tools
+## 👷🏽 Development Tools
 - **Vite** <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="20" height="20"/>
 
-## Testing Tools
+## 🧪 Testing Tools
 - **Selenium** <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="20" height="20"/>
 
-## Deployment Tools
+## 🚀 Deployment Tools
 - **Docker** <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="20" height="20"/>
 - **Jenkins** <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="20" height="20"/>
 - **Kubernetes** <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="20" height="20"/>
