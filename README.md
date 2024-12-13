@@ -1,5 +1,5 @@
 # 🧑🏽‍💻 Designer Software Development Engineer
-Currently working on projects at my organization SEVEN TECH.
+Currently working on projects at my organization <a src="https://github.com/the7ofdiamonds" >SEVEN TECH</a>.
 
 ## 💻 Languages
 - **HTML** <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="20" height="20"/>
