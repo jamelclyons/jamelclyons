@@ -1,7 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamelclyons&show_icons=true)
+![Jamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamelclyons&show_icons=true)
 
-## Programming Languages
-### Java
-## Framework
+![Jamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamelclyons&show_icons=true)
 
-## Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
