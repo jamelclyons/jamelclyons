@@ -43,6 +43,7 @@ Currently working on projects at my organization [SEVEN TECH](https://github.com
 - **Sass** <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="20" height="20"/>
 - **Webpack** <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="20" height="20"/>
 - **Vite** <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="20" height="20"/>
+- **Maven** <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="20" height="20"/>
 
 ## 🧪 Testing Tools
 - **Postman** <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="20" height="20"/>
