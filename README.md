@@ -6,6 +6,7 @@ Currently working on projects at my organization [SEVEN TECH](https://github.com
 - **CSS** <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="20" height="20"/>
 - **JavaScript** <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" height="20"/>
 - **TypeScript** <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="20" height="20"/>
+- **jQuery** <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="20" height="20"/>
 - **PHP** <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="20" height="20"/>
 - **SQL** <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="20" height="20"/>
 - **Java** <img src="https://skillicons.dev/icons?i=java" alt="Java" width="20" height="20"/>
