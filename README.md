@@ -1,3 +1,6 @@
-![Jamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=the7ofdiamonds&show_icons=true)
+## 🛠️ Languages & Frameworks
 
-![Program Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamelclyons&hide_progress=true)
+- **Languages**: HTML, CSS, JavaScript, PHP, Java, Swift, SQL
+- **Frameworks/Tools**: [Include relevant frameworks/tools here, e.g., React, Laravel, Spring Boot, etc., if applicable]
+
+I enjoy crafting efficient and innovative solutions with these technologies!
