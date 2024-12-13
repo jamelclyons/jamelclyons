@@ -8,11 +8,11 @@
 - SQL
 - Python
 
-## Frameworks
+## 🖼️ Frameworks
 - Angular
 - React
 - Spring Boot
 
-## Technology
+## ⚡️ Technology
 - Docker
 - Kubernetes
