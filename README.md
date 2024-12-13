@@ -1,5 +1,5 @@
 # 🧑🏽‍💻 Designer Software Development Engineer
-Currently working on projects at my organization <a src="https://github.com/the7ofdiamonds" >SEVEN TECH</a>.
+Currently working on projects at my organization [SEVEN TECH](https://github.com/the7ofdiamonds).
 
 ## 💻 Languages
 - **HTML** <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="20" height="20"/>
@@ -31,13 +31,13 @@ Currently working on projects at my organization <a src="https://github.com/the7
 - **Redis** <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="20" height="20"/>
 
 ## 🗓️ Events
-- **Kafka** <img src="https://skillicons.dev/icons?i=vite" alt="Kafka" width="20" height="20"/>
+- **Kafka** <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="20" height="20"/>
 
 ## 🎨 Design Tools
 - **Adobe Photoshop** <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="20" height="20"/>
 - **Adobe Illustrator** <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="20" height="20"/>
 - **Adobe XD** <img src="https://skillicons.dev/icons?i=xd" alt="XD" width="20" height="20"/>
-- **Figma** <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="20" height="20"/>
+- **Figma** <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="20" height="20"/>
 
 ## 👷🏽 Development Tools
 - **Vite** <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="20" height="20"/>
