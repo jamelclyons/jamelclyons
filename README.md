@@ -1,5 +1,6 @@
 # 🧑🏽‍💻 Designer Software Development Engineer
- 
+Currently working on projects at my organization SEVEN TECH.
+
 ## 💻 Languages
 - **HTML** <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="20" height="20"/>
 - **CSS** <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="20" height="20"/>
