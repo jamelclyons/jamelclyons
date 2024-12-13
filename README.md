@@ -1,5 +1,5 @@
 ## 🛠️ Languages
-- [![HTML](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+- [HTML](https://skillicons.dev/icons?i=html)
 - CSS
 - JavaScript
 - PHP
