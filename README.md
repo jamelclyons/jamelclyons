@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Designer Software Development Engineer
+# 🧑🏽‍💻 Software Development Engineer
 Currently working on projects at my organization [SEVEN TECH](https://github.com/the7ofdiamonds).
 
 ## 💻 Languages
